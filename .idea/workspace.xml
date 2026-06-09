@@ -4,18 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e841efee-0b7d-4da5-9517-a9ee3b26f13f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interpreter.iml" afterDir="false" />
+    <list default="true" id="e841efee-0b7d-4da5-9517-a9ee3b26f13f" name="Changes" comment="preparando ambiente">
+      <change afterPath="$PROJECT_DIR$/src/main/Numero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/InterpretadorExpressaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Hamburgueria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Hamburgueria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/InterpretadorExpressao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/InterpretadorExpressao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/InterpretadorExpressoesAritmeticas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/InterpretadorExpressoesAritmeticas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/adicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Adicao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/divisao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Divisao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/multiplicacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Multiplicacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/subtracao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Subtracao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,8 +44,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.InterpretadorExpressaoTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/lfmis/IdeaProjects/Interpreter/src/Main.java"
@@ -54,6 +73,19 @@
       <option name="presentableId" value="Default" />
       <updated>1781020140602</updated>
     </task>
+    <task id="LOCAL-00001" summary="preparando ambiente">
+      <option name="closed" value="true" />
+      <created>1781023089606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781023089606</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="preparando ambiente" />
+    <option name="LAST_COMMIT_MESSAGE" value="preparando ambiente" />
   </component>
 </project>
